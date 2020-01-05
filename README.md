@@ -1,6 +1,10 @@
 # ai-burning
 네이버 AI 버닝 데이 https://campaign.naver.com/aihackathon_ai_burning/
 
+## 메모
+
+* 팀 이름 : 김수한무거북이와두루미삼천갑자동방삭치치카포사리사리센타워리워리세브리깡무두셀라구름이허리케인에담벼락담벼락에서생원서생원에고양이고양이엔바둑이바둑이는돌돌이
+
 
 ## Reference 
 
