@@ -15,6 +15,10 @@
 - 권서인(디자이너)
 - 솔라매직(기획자)
 
+## [아이디어 목록](documents/idea.md)
+
+## [기획서](documents/plan.md)
+
 ## Reference
 
 [네이버 AI 버닝 데이 공식 사이트](https://campaign.naver.com/aihackathon_ai_burning/)
