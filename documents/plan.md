@@ -29,7 +29,6 @@
 - 방송된 영상을 더욱 쉽게 가공할 수 있어 2차 창작을 용이하게 한다.
 - 위와 같은 효과로 궁극적으로 현재 성행하는 개인미디어의 발전에 도움을 준다.
 
-
 ### 구현방식
 
 ![Pose Estimation 예시 이미지](https://xv-ncloud.pstatic.net/images/service/aiService/poseEsimation-1.xl.png)
@@ -57,7 +56,7 @@
 2. Face Recognition: 추정된 얼굴의 위치의 이미지를 추출하고 `user_id`의 화이트리스트 속 얼굴의 이미지를 비교하여 블러 처리를 할지 안 할지를 판단하고 적용한다.
    - 방안1: 직접 AI를 만들어서 판단한다.
      - CNN을 통한 binary classification으로 구현한다.
-   - 방안2: 네이버 API와 구현을 통해 판단한다. 
+   - 방안2: 네이버 API와 구현을 통해 판단한다.
      - Face Detection에 얻은 정보와 Clova Face Recognition(CFR)의 celebrity 정보등을 활용하여 판단
    - 문제점: 방송하면서 사람의 얼굴은 계속 변화하는데 그런 변화된 이미지와 처음 등록한 이미지랑 판단하는 것의 정확도가 높지 않을 것으로 추측하여 threshold 값이 낮아 false positive 가 높을것이다.
 
