@@ -44,8 +44,6 @@ AI를 활용하여 실시간 방송을 할 때 타인의 얼굴을 자동으로 
 - 영상 전처리
   - RTMP로 온 영상 청크 파일들을 `image`의 연속으로 변환
 
-![Pose Estimation 예시 이미지](https://xv-ncloud.pstatic.net/images/service/aiService/poseEsimation-1.xl.png)
-
 - Face Detection: 얼굴 위치 추정
   - 네이버의 Pose Estimation API를 사용하여에서 `image`의 신체 부위를 탐지해낸 JSON을 얻는다.
   - Clova Face Recognition(CFR)의 face를 이용하여 `image`의 얼굴 정보 JSON을 얻는다.
