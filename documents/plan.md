@@ -82,7 +82,10 @@ React Native를 통해 방송 송출 및 수신이 가능한 애플리케이션�
 
 - 영상 재생
 
-### 예상 이미지
+### 예상 동영상
+
+https://youtu.be/MOQWeNqoaUc
+
 
 ### Future Work
 
